@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.2](https://www.github.com/Teletha/icymanipulator/compare/v1.3.1...v1.3.2) (2021-03-31)
+
+
+### Bug Fixes
+
+* Generate valid javadoc. ([3a167b3](https://www.github.com/Teletha/icymanipulator/commit/3a167b37ab0d17cb77ef594e34b413b5f048be29))
+
 ### [1.3.1](https://www.github.com/Teletha/icymanipulator/compare/v1.3.0...v1.3.1) (2021-03-28)
 
 
